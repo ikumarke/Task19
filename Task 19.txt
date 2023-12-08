@@ -1,0 +1,15 @@
+
+1.id
+by.id("landingBannerView")
+
+2.Classname
+by.classname("nav-link dropdown-toggle down-icon evtCourses")
+
+3.Tagname
+by.tagname("a")
+
+4.cssselector
+(By.cssSelector(a[id='navbarDropdown']))
+
+5.xpath
+(By.xpathy(//a[@id='navbarDropdown']))
